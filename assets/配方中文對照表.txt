@@ -1,0 +1,101 @@
+
+【索尼】
+  出廠默認（標準）
+  索尼 PT（肖像）
+  索尼 NT（中性）
+  索尼 VV（生動）
+  索尼 VV2
+  索尼 FL（膠片感）
+  索尼 IN（即時感）
+  索尼 SH（柔和高亮）
+
+【富士模擬】
+  Provia 標準
+  Velvia 鮮豔
+  Astia 柔和
+  經典正片
+  經典負片
+  懷舊負片
+  Reala Ace
+  Pro Neg 標準
+  Pro Neg 高反差
+  Eterna 電影
+  Eterna 漂白旁路
+  Acros 黑白
+  Acros + 黃濾鏡
+  Acros + 紅濾鏡
+  Acros + 綠濾鏡
+  棕褐色調
+
+【富士膠片】
+  富士 Pro 400H
+  富士 Fortia 50
+  富士 Superia 400
+  富士 C200
+  富士 Natura 1600
+
+【柯達】
+  柯達 Portra 160
+  柯達 Portra 400
+  柯達 Portra 800
+  柯達金 200
+  柯達 Ultra Max 400
+  柯達 Color Plus 200
+  柯達 Ektar 100
+  柯達 E100 反轉片
+  柯達克羅姆 64
+  柯達 Vision3 500T（日光）
+  柯達 Vision 200T（小行星城）
+  柯達 Tri-X 400
+  柯達 T-Max
+  柯達 Tri-X 1600（增感）
+
+【電影】
+  Cinestill 50D（藍絲絨）
+  Cinestill 800T
+  經典電影色
+  Rec709 視頻（偏平直）
+
+【理光 GR】
+  GR 正片
+  GR 負片
+  GR 漂白旁路
+  GR 復古
+  GR 交叉沖洗
+  GR 高反差黑白
+  GR 硬調單色
+  GR 柔調單色
+
+【徠卡】
+  徠卡 當代
+  徠卡 經典
+  徠卡 永恆
+  徠卡 Monochrom 黑白
+
+【哈蘇】
+  哈蘇 HNCS 自然色
+
+【佳能/尼康】
+  佳能 標準
+  佳能 肖像
+  佳能 可靠
+  尼康 平面
+  尼康 鮮豔
+
+【松下/奧林巴斯】
+  松下 L.單色 D
+  松下 L.經典 Neo
+  奧林巴斯 流行藝術
+  奧林巴斯 淡彩輕快
+
+【其他膠片】
+  愛克發 Vista 200
+  愛克發 Ultra 100
+  寶麗來 / 拍立得
+
+【伊爾福德】
+  伊爾福德 HP5
+  伊爾福德 FP4
+  伊爾福德 Delta 100
+  伊爾福德 Delta 3200
+  伊爾福德 Pan F 50
